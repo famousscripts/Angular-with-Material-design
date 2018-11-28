@@ -1,4 +1,4 @@
-# Angular6 SPA
+# Angular with Material design
 
 For Direct run this project you need to follow these steps:
 
