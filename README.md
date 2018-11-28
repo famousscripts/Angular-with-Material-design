@@ -4,11 +4,14 @@ For Direct run this project you need to follow these steps:
 
 Make sure you have installed node in properly
 
-1. Take all files and folder and create your own folder like "spa" folder name then. 
-2. Go to node prompt and "cd" to created folder directory then.
-3. Now type in this directory like /spa>npm install.
-4. Now /spa>ng serve
-5. then go to your browser and type http://localhost:4200/ you will see the homepage.
+How to add Material in Angular 6
+
+Very first install node modules with command : npm install
+
+1. ng add @angular/material
+2. ng generate @angular/material:material-dashboard --dashboard
+3. ng serve.
+
 
 ## Further help
 
