@@ -1,0 +1,33 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 300px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+
+article, aside, footer, header, hgroup, main, nav, section {
+  padding-left: 240px!important;
+ }
+
+ main {
+  padding-left: 240px!important;
+ }
+
+ 
+ @media only screen and (min-width: 1392px) and (max-width: 2000px) {
+  article, aside, footer, header, hgroup, main, nav, section {
+        padding-left: 400px!important;
+       }
+   }
